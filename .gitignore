@@ -1,0 +1,16 @@
+# Python bytecode & cache
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+.venv/
+env/
+
+# Local DuckDB database file
+*.duckdb
+*.duckdb.wal
+
+# OS metadata files
+.DS_Store
+Thumbs.db
